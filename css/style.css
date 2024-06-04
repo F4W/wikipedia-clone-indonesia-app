@@ -181,7 +181,7 @@
   }
   
   .social-icons a:hover {
-    color: #ffcc00; /* warna kuning */
+    color: #006aff; /* warna kuning */
   }
 
   @keyframes changeColor {
